@@ -6,8 +6,6 @@
 [![Instagram](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PatrickCcruz)
 [![Instagram](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/samuel_castrorp)
 
-![patrick GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickccruz&show_icons=true&theme=tokyonight)
-
 
 ## Tecnologias que uso no meu dia 💻
 
